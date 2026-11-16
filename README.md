@@ -1,16 +1,21 @@
-## Hi there 👋
+# CHOO-AI — My Personal Playground
 
-<!--
-**Choo-AI-Dev/Choo-AI-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub is my playground. Whatever I'm working on, I write it down and put it here: finished tools, half-built experiments, and the notes in between.
 
-Here are some ideas to get you started:
+By day I'm an industrial AI engineer, teaching models to catch defects on real production lines. By night I build the free tools I wish I had.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Things you can use today**
+- [Penmit PDF](https://choo-ai-dev.github.io/penmit-pdf/): a free PDF app you can write on with a pen, on any device
+- [ReteKey G](https://github.com/Choo-AI-Dev/retekey-g-xiaoxin-pad-pro-13): a Gboard-style Korean keyboard for tablets
+
+**From the factory floor**
+- [PCB AOI labeling tools](https://github.com/Choo-AI-Dev/PCB-AOI-LABELING-TOOLS): labeling images from PCB optical inspection
+- [Anomaly detection for industry](https://github.com/Choo-AI-Dev/Anomaly-Detection-for-Industry): the simplest anomaly-detection example I could write
+
+More about me: [choo-ai-dev.github.io](https://choo-ai-dev.github.io)
+
+**Buy me a coffee**
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Choo-AI-Dev)
+
+Everything I make here stays free. If something saved you time, a coffee keeps the playground running.
